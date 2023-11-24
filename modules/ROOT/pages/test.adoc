@@ -1,0 +1,9 @@
+= Title
+
+Paragraph.
+
+image::ROOT:test.jpeg[]
+image::test1:test.jpeg[]
+image::test.jpeg[]
+image::../images/test.jpeg[]
+
